@@ -4,11 +4,15 @@
    the purpose of a type.*/
 
    #include <iostream>
-   int main(){
    using text_t=std::string;
    typedef std::string text_t; // this is the same as the above line
+   using num_t=int;
+   typedef int num_t; // this is the same as the above line
+   int main(){
+   
+    num_t months= 3;
     text_t goal= "hitting ascendant in valorant";
-     std::cout <<"my goal is "<<goal<<'\n';
+     std::cout <<"my goal is "<<goal<<" by "<<months<<" months"<<'\n';
     return 0;
    }
 
