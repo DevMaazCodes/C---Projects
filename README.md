@@ -1,1 +1,1 @@
-This is my first code in VS code
+This is my first coding session in VS code
