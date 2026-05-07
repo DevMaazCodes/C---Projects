@@ -15,10 +15,13 @@ int main(){
     std::cout<<"Are you radiant? (if yes, type 1 otherwise type 0)"<<std::endl;
     std::cin>>radiant;
     
-    
-    
+    //we can also assign the result of the ternary operator to a variable,
+    // which is useful when we want to use the result later in the code.
+    std::string level= radiant? "You are radiant!!!" : "You are a noob";
 
-    radiant? std::cout<<"You are radiant!!!" : std::cout<<"You are a noob";
+    std::cout<<"Let me tell you, ";
+
+    std::cout<<level<<std::endl;
 
     
 
