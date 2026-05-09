@@ -6,7 +6,7 @@ int main() {
     int choice=0;
     double deposit;
     double withdraw;
-    int pass;
+    int pass=0;
     std::cout<<std::fixed<<std::setprecision(2);
     while(pass!=1234){ 
     std::cout<<"Hi user, please enter your pin"<<'\n';
