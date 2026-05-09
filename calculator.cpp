@@ -1,10 +1,13 @@
 #include <iostream>
 using db = double;
 int main(){
+    bool exit;
     db num1;
     char op;
     db num2;
     std::cout<<"******************************Calculator******************************"<< std::endl;
+ 
+    while(!exit){
     std::cout<<"Enter first number"<< std::endl;
     std::cin>>num1;
     std::cout<<"Enter what you want to do (+, -, *, /)"<< std::endl;
@@ -29,9 +32,13 @@ int main(){
             break;
             default:
             std::cout<<"Stupid, you can't do that. Go learn math."<< std::endl;
-        }
-    
-    std::cout<<"******************************Calculator******************************"<< std::endl;
+            break;
 
+            }
+               std::cout<<"if you want to exit type 1 else type 0"<<std::endl;
+               std::cin>>exit;
+        }
+        
+    std::cout<<"******************************Calculator******************************"<< std::endl;
 return 0;
 }
