@@ -37,6 +37,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Random Number Game
 - Pattern Printing
 - Dashboard Program
+- Simple random salary calculator (inside return.cpp)
 
 ---
 
