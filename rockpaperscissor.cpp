@@ -27,6 +27,7 @@ char userchoice(){
      do{
     std::cout<<"Select your choice:"<<'\n'<<"R. Rock"<<'\n'<<"P. Paper"<<'\n'<<"S. Scissors"<<'\n'<<"Your choice: ";
     std::cin>>userchoice;
+    std::cin.ignore(1000, '\n');
     if (userchoice==('r')||userchoice==('p')||userchoice==('s')){
         return userchoice;
     }
