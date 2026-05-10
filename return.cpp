@@ -4,7 +4,7 @@
 #include <ctime>
  #include <string>
 double combatscore(){
-srand (time(NULL));
+
 double score= (rand()%400)+100;
 return score;  
 }
@@ -21,7 +21,7 @@ std::string rank(double score){
     }
 }
 int main(){
-
+  srand (time(NULL));
   double score=  combatscore();
    std::string level= rank(score);
    std::cout<<"Combat Score= "<<score<<std::endl;
