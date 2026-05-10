@@ -26,7 +26,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Functions Basics
 - Return Keyword
 - Overloaded functions
-
+- Variable Scope
 ---
 
 ## Mini Projects Built
@@ -34,7 +34,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Calculator
 - Temperature Converter
 - Hypotenuse Calculator
-- Mini ATM System
+- Mini ATM System with modular functions and return types.
 - Random Number Game
 - Pattern Printing
 - Dashboard Program
