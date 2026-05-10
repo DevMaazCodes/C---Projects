@@ -39,6 +39,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Pattern Printing
 - Dashboard Program
 - Simple random salary calculator (inside return.cpp)
+- Rock Paper Scissors Game
 
 ---
 
