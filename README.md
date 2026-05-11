@@ -30,6 +30,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Arrays Basics
 - sizeof() operator
 - iterating over an array
+- for each loop
 ---
 
 ## Mini Projects Built
