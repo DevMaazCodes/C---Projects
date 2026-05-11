@@ -27,6 +27,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Return Keyword
 - Overloaded functions
 - Variable Scope
+- Arrays Basics
 ---
 
 ## Mini Projects Built
