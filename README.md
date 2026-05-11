@@ -28,6 +28,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Overloaded functions
 - Variable Scope
 - Arrays Basics
+- sizeof() operator
 ---
 
 ## Mini Projects Built
