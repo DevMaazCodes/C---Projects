@@ -29,6 +29,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Variable Scope
 - Arrays Basics
 - sizeof() operator
+- iterating over an array
 ---
 
 ## Mini Projects Built
