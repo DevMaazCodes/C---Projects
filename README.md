@@ -36,6 +36,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Sorting an array using bubble sort
 - fill() function
 - Getting user input to fill array
+- 2d Array
 ---
 
 ## Mini Projects Built
