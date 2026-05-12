@@ -6,9 +6,10 @@ int main(){
     char answers[]={'B','B','A'};
     int size=sizeof(quiz)/sizeof(quiz[0]);
     char guess;
-    int score=0;
+    
     int choice  ;
     do{
+        int score=0;
         std::cout<<"************************************Quiz************************************"<<'\n';
     for(int i=0; i<size; i++){
         for (int j=0; j<1; j++){
