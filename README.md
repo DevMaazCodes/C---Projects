@@ -28,9 +28,10 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Overloaded functions
 - Variable Scope
 - Arrays Basics
-- sizeof() operator
-- iterating over an array
-- for each loop
+- Sizeof() operator
+- Iterating over an array
+- For each loop
+- Passing an array to a function
 ---
 
 ## Mini Projects Built
