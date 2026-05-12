@@ -33,6 +33,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - For each loop
 - Passing an array to a function
 - Search an element in array using linear search
+- Sorting an array using bubble sort
 ---
 
 ## Mini Projects Built
