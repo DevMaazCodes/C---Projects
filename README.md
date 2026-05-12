@@ -32,6 +32,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Iterating over an array
 - For each loop
 - Passing an array to a function
+- Search an element in array using linear search
 ---
 
 ## Mini Projects Built
