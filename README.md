@@ -55,6 +55,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Rock Paper Scissors Game
 - Team verifier for valorant
 - Quiz Game
+- Credit Card Validator
 ---
 
 ## Goal
