@@ -40,6 +40,8 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Memory Addresses
 - Pass by value and pass by reference
 - Using const for parameters
+- Pointers
+
 ---
 
 ## Mini Projects Built
