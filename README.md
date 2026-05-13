@@ -59,6 +59,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Team verifier for valorant
 - Quiz Game
 - Credit Card Validator
+- Tic tac toe game
 ---
 
 ## Goal
