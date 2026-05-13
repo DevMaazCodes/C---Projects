@@ -38,6 +38,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Getting user input to fill array
 - 2d Array
 - Memory Addresses
+- Pass by value and pass by reference
 ---
 
 ## Mini Projects Built
