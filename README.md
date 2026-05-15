@@ -42,6 +42,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Using const for parameters
 - Pointers
 - Null Pointers
+- Dynamic Memory
 
 ---
 
