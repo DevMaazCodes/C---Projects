@@ -43,7 +43,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Pointers
 - Null Pointers
 - Dynamic Memory
-
+- Recursion
 ---
 
 ## Mini Projects Built
@@ -61,6 +61,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Quiz Game
 - Credit Card Validator
 - Tic tac toe game
+- Todo list
 ---
 
 ## Goal
