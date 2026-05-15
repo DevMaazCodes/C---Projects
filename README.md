@@ -62,6 +62,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Credit Card Validator
 - Tic tac toe game
 - Todo list
+- Power calculator
 ---
 
 ## Goal
