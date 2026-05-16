@@ -45,6 +45,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Dynamic Memory
 - Recursion
 - Function Templates
+- Structs basic
 ---
 
 ## Mini Projects Built
