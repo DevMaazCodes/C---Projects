@@ -44,6 +44,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Null Pointers
 - Dynamic Memory
 - Recursion
+- Function Templates
 ---
 
 ## Mini Projects Built
