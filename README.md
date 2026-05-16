@@ -47,6 +47,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Function Templates
 - Structs basic
 - Pass structs to functions
+- Enums
 ---
 
 ## Mini Projects Built
