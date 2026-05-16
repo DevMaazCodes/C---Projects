@@ -46,6 +46,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Recursion
 - Function Templates
 - Structs basic
+- Pass structs to functions
 ---
 
 ## Mini Projects Built
@@ -65,6 +66,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Tic tac toe game
 - Todo list
 - Power calculator
+- Player Stat Manager
 ---
 
 ## Goal
