@@ -48,6 +48,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Structs basic
 - Pass structs to functions
 - Enums
+- Classes and oops
 ---
 
 ## Mini Projects Built
