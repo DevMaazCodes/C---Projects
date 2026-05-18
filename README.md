@@ -51,6 +51,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Classes and oops
 - Constructors
 - Overloaded Constructors
+- Getters and setters
 ---
 
 ## Mini Projects Built
