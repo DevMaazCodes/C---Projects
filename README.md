@@ -73,6 +73,7 @@ This repository contains my C++ practice programs and mini-projects while learni
 - Todo list
 - Power calculator
 - Player Stat Manager
+- Mini inventory manager
 ---
 
 ## Goal
